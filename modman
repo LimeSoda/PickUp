@@ -2,3 +2,4 @@ src/app/code/community/IntegerNet/PickUp                            app/code/com
 src/app/etc/modules/*                                               app/etc/modules/
 src/app/locale/de_DE/*                                              app/locale/de_DE/
 src/app/design/frontend/base/default/template/integer_net/pickup             app/design/frontend/base/default/template/integer_net/pickup/
+src/app/design/adminhtml/default/default/template/integer_net/pickup           app/design/adminhtml/default/default/template/integer_net/pickup/
